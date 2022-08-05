@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d4f15934.css",
+    "main.js": "/static/js/main.de45da9a.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/BatuhanCV.pdf": "/static/media/BatuhanCV.98cefae205c801c703c0.pdf",
+    "static/media/batu2.gif": "/static/media/batu2.f9064299652dbef80744.gif",
+    "static/media/1bab.jpeg": "/static/media/1bab.e0ca53aade28f3757197.jpeg",
+    "static/media/6css.jpeg": "/static/media/6css.0e6cd10214659dc7eb19.jpeg",
+    "static/media/2schneider.jpeg": "/static/media/2schneider.cf95fd39e0ec852f7498.jpeg",
+    "static/media/5pixtagram.jpeg": "/static/media/5pixtagram.211ba638599689eb66a1.jpeg",
+    "static/media/3mobil.jpeg": "/static/media/3mobil.bb69cb4ca9aae5b18e13.jpeg",
+    "static/media/home-bg-2.jpg": "/static/media/home-bg-2.8a4c24d7759435ec8e41.jpg",
+    "static/media/4patika.jpg": "/static/media/4patika.d59fff6aa932bc9ec6c7.jpg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/avatar1.svg": "/static/media/avatar1.506c58e3cdc12bc9ea508f4237692e53.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.d4f15934.css.map": "/static/css/main.d4f15934.css.map",
+    "main.de45da9a.js.map": "/static/js/main.de45da9a.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4f15934.css",
+    "static/js/main.de45da9a.js"
+  ]
+}
