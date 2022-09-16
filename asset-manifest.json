@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.d4f15934.css",
-    "main.js": "/static/js/main.431a4bbf.js",
+    "main.js": "/static/js/main.56f40f8e.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/BatuhanCV.pdf": "/static/media/BatuhanCV.98cefae205c801c703c0.pdf",
-    "static/media/batu2.gif": "/static/media/batu2.f9064299652dbef80744.gif",
+    "static/media/Batuhan CV - EN.pdf": "/static/media/Batuhan CV - EN.0b538f79985c275d10a8.pdf",
+    "static/media/batu1.gif": "/static/media/batu1.91516c8fcdeb42050f70.gif",
     "static/media/1bab.jpeg": "/static/media/1bab.e0ca53aade28f3757197.jpeg",
     "static/media/6css.jpeg": "/static/media/6css.0e6cd10214659dc7eb19.jpeg",
     "static/media/2schneider.jpeg": "/static/media/2schneider.cf95fd39e0ec852f7498.jpeg",
@@ -18,12 +18,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.d4f15934.css.map": "/static/css/main.d4f15934.css.map",
-    "main.431a4bbf.js.map": "/static/js/main.431a4bbf.js.map",
+    "main.56f40f8e.js.map": "/static/js/main.56f40f8e.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4f15934.css",
-    "static/js/main.431a4bbf.js"
+    "static/js/main.56f40f8e.js"
   ]
 }
