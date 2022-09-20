@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.d4f15934.css",
-    "main.js": "/static/js/main.56f40f8e.js",
+    "main.js": "/static/js/main.7f87b545.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Batuhan CV - EN.pdf": "/static/media/Batuhan CV - EN.0b538f79985c275d10a8.pdf",
     "static/media/batu1.gif": "/static/media/batu1.91516c8fcdeb42050f70.gif",
     "static/media/1bab.jpeg": "/static/media/1bab.e0ca53aade28f3757197.jpeg",
     "static/media/6css.jpeg": "/static/media/6css.0e6cd10214659dc7eb19.jpeg",
@@ -14,16 +13,17 @@
     "static/media/home-bg-2.jpg": "/static/media/home-bg-2.8a4c24d7759435ec8e41.jpg",
     "static/media/4patika.jpg": "/static/media/4patika.d59fff6aa932bc9ec6c7.jpg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Batuhan CV - EN.pdf": "/static/media/Batuhan CV - EN.f0342e113d8a59bb96e7.pdf",
     "static/media/avatar1.svg": "/static/media/avatar1.506c58e3cdc12bc9ea508f4237692e53.svg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.d4f15934.css.map": "/static/css/main.d4f15934.css.map",
-    "main.56f40f8e.js.map": "/static/js/main.56f40f8e.js.map",
+    "main.7f87b545.js.map": "/static/js/main.7f87b545.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4f15934.css",
-    "static/js/main.56f40f8e.js"
+    "static/js/main.7f87b545.js"
   ]
 }
